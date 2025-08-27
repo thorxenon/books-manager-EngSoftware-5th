@@ -2,7 +2,7 @@
 
 Este projeto é um gerenciador de livros desenvolvido em Java utilizando o framework Spring Boot. Ele implementa uma API REST para operações CRUD (Create, Read, Update, Delete) sobre uma entidade Livro (Book), persistindo os dados em um banco de dados H2 em memória.
 
-# Este projeto foi realizado durante o 5° Período do curso de Engenharia de Software.
+### Este projeto foi realizado durante o 5° Período do curso de Engenharia de Software.
 
 ## Estrutura do Projeto
 
